@@ -1,0 +1,21 @@
+# Data files (proprietary course data)
+*.xlsx
+*.csv
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local temp
+*.tmp
+/temp/
